@@ -4,7 +4,7 @@ Welcome to my personal 100-day LeetCode challenge, where I tackle one coding pro
 
 ---
 
-## 📌 Day 15: Minimum Domino Rotations For Equal Row
+## 📌 Day 1: Minimum Domino Rotations For Equal Row
 
 ### 🧠 Problem Statement
 
